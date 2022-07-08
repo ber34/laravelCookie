@@ -17,6 +17,7 @@ Następnie dodajemy nazwę ciastecza do Middleware w app/http/Middleware/Encrypt
 I tak oto możemy się cieszyć wyskakującym boksem Cookie
 
 
-![MiddlewarePolitykaPrywatnsci](https://user-images.githubusercontent.com/5230920/177552242-af0bb687-9eb9-45f7-ac2d-2c0b9eae5f0a.png)
+![MiddlewarePolitykaPrywatnsci](https://user-images.githubusercontent.com/5230920/178060150-faa32c33-d120-400b-a29f-07b5dbc9a576.png)
+
 
 Powodzenia
