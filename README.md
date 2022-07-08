@@ -12,9 +12,13 @@ Another thing is assigning our Middleware to the carnel in the app / http / so t
 
 Następnie dodajemy nazwę ciastecza do Middleware w app/http/Middleware/EncryptCookies.php
 
+Then we add the cookie name to Middleware in app/http/Middleware/EncryptCookies.php
+
 ![MiddlewareEncrypt](https://user-images.githubusercontent.com/5230920/177551913-42f471d0-9567-4222-815b-ed658f8ed765.png)
 
 I tak oto możemy się cieszyć wyskakującym boksem Cookie
+
+And so here we can enjoy Cookie pop-up box
 
 
 ![MiddlewarePolitykaPrywatnsci](https://user-images.githubusercontent.com/5230920/178060150-faa32c33-d120-400b-a29f-07b5dbc9a576.png)
