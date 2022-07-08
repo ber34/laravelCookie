@@ -34,7 +34,7 @@
                 <h2>Polityka Prywatności Cookis</h2>
             </div>
             <div class="card-body"> 
-                <p class="card-text">Twoje doświadczenia na tej witrynie będą lepsze dzięki cookies.</p>
+                <p class="card-text">Witaj Nieznajomy.</p>
                 <p class="card-text">Jeżeli chcesz zostać i przeglądać dalej stronę to zakceptuj ( Cookie! ).</p> 
                 <p class="card-text">Cały Polityka Prywatności tu: <a href="{{ route("politykaPrywatnosci") }}">Polityka Prywatności</a></p>         
             </div>
